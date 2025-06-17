@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m Viraj Rambhia, a Master’s student in Project Management at Northeastern University with a background in finance and a passion for driving impact through structured execution, innovation, and collaboration. This GitHub space showcases a collection of my academic and professional projects, ranging from data-driven business solutions to project planning tools and process improvement initiatives. Whether it's managing stakeholder expectations, building agile workflows, or delivering real-world results, each project reflects my commitment to continuous learning and excellence in project execution. Feel free to explore — I’m always open to feedback, collaboration, or new opportunities!
 <!--
 **VIRAJRAMBHIA/virajrambhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
